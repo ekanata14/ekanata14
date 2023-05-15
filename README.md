@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at SMKN 1 Denpasar, I love to code and make systems that are useful for people
+I'm a student at SMKN 1 Denpasar, I love to code and make systems that are useful for people.
 
 
 ## 🌐 Socials:
