@@ -1,5 +1,5 @@
 # 💫 About Me:
-A College Student at ITB STIKOM Bali, I love to code and make systems that are useful for people.
+A College Student at ITB STIKOM Bali, Student who loves to code and think creative
 
 
 ## 🌐 Socials:
